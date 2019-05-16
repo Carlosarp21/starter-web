@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carlos A. Ramos Big Data Dev @ Conti
 
 # THANKS
 

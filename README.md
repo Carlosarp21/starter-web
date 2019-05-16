@@ -24,6 +24,8 @@ local file system.
 
 ## How To Contribute
 
+Please fork this directory and then issue Pull Requests.
+
 ## Copyright
 
 2019. Git.Training

@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to use Git and
 Github togheter. Adding a line for rebasing example, THEN MORE CHANGES FROM
-MY FEATURE BRANCH TOO.
+MY FEATURE BRANCH TOO. Emergency fix.
 
 
 ## Introduction

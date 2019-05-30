@@ -29,4 +29,4 @@ Please fork this directory and then issue Pull Requests.
 
 ## Copyright
 
-2019. Git.Training
+2019. Git.Training. All right reserved.
